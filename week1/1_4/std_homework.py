@@ -28,4 +28,4 @@ def get_more_pages(start,end):
         time.sleep(2)
 
 
-get_more_pages(1,10)
+get_more_pages(1,3)
